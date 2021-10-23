@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { Personaje } from '../interfaces/dbz.interface';
-import { AgregarComponent } from '../agregar/agregar.component';
 import { DbzService } from '../services/dbz.service';
 
 
